@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5">
+ <class>
+  <name>Wizard</name>
+  <hd>6</hd>
+  <proficiency>Intelligence, Wisdom, Arcana, History, Insight, Investigation, Medicine, and Religion</proficiency>
+  <numSkills>2</numSkills>
+  <armor>none</armor>
+  <weapons>daggers, darts, slings, quarterstaff, light crossbows</weapons>
+  <tools>None</tools>
+  <wealth>5d4x10</wealth>
+  <spellAbility>Intelligence</spellAbility>
+  <slotsReset>L</slotsReset>
+  <subclass>Hydromancer</subclass>
+
+  <autolevel level="1"><slots>3, 2</slots></autolevel>
+  <autolevel level="2"><slots>3, 3</slots></autolevel>
+  <autolevel level="3"><slots>3, 4, 2</slots></autolevel>
+  <autolevel level="4"><slots>4, 4, 3</slots></autolevel>
+  <autolevel level="5"><slots>4, 4, 3, 2</slots></autolevel>
+  <autolevel level="6"><slots>4, 4, 3, 3</slots></autolevel>
+  <autolevel level="7"><slots>4, 4, 3, 3, 1</slots></autolevel>
+  <autolevel level="8"><slots>4, 4, 3, 3, 2</slots></autolevel>
+  <autolevel level="9"><slots>4, 4, 3, 3, 3, 1</slots></autolevel>
+  <autolevel level="10"><slots>5, 4, 3, 3, 3, 2</slots></autolevel>
+  <autolevel level="11"><slots>5, 4, 3, 3, 3, 2, 1</slots></autolevel>
+  <autolevel level="12"><slots>5, 4, 3, 3, 3, 2, 1</slots></autolevel>
+  <autolevel level="13"><slots>5, 4, 3, 3, 3, 2, 1, 1</slots></autolevel>
+  <autolevel level="14"><slots>5, 4, 3, 3, 3, 2, 1, 1</slots></autolevel>
+  <autolevel level="15"><slots>5, 4, 3, 3, 3, 2, 1, 1, 1</slots></autolevel>
+  <autolevel level="16"><slots>5, 4, 3, 3, 3, 2, 1, 1, 1</slots></autolevel>
+  <autolevel level="17"><slots>5, 4, 3, 3, 3, 2, 1, 1, 1, 1</slots></autolevel>
+  <autolevel level="18"><slots>5, 4, 3, 3, 3, 3, 2, 1, 1, 1</slots></autolevel>
+  <autolevel level="19"><slots>5, 4, 3, 3, 3, 3, 2, 1, 1, 1,</slots></autolevel>
+  <autolevel level="20"><slots>5, 4, 3, 3, 3, 3, 2, 2, 1, 1,</slots></autolevel>
+
+  <autolevel level="1">
+    <feature optional="YES">
+      <name>Starting Wizard</name>
+      <text>As a 1st-level Wizard, you begin play with 6 + your Constitution modifier hit points.</text>
+      <text/>
+      <text>You are proficient with the following items, in addition to any proficiencies provided by your race or background.</text>
+      <text/>
+      <text>	• Armor: none</text>
+      <text>	• Weapons: daggers, darts, slings, quarterstaff, light crossbows</text>
+      <text>	• Tools: none</text>
+      <text>	• Skills: Choose 2 from Arcana, History, Insight, Investigation, Medicine, Religion</text>
+      <text/>
+      <text>You begin play with the following equipment, in addition to any equipment provided by your background.</text>
+      <text/>
+      <text>	• (a) quarterstaff or (b) dagger</text>
+      <text>	• (a) component pouch or (b) an arcane focus</text>
+      <text>	• (a) a scholar's pack or (b) an explorer's pack</text>
+      <text>	• A spellbook </text>
+      <text/>
+      <text>Alternatively, you may start with 4d4 × 10 gp and choose your own equipment.</text>
+      <text/>
+      <text>Source:	Player's Handbook p. 89</text>
+    </feature>
+    <feature optional="YES">
+      <name>Multiclass Wizard</name>
+      <text>If your group uses the optional rule on multiclassing in the Player's Handbook, here's what you need to know if you choose ranger as one of your classes.</text>
+      <text/>
+      <text>Ability Score Minimum:</text>
+      <text>As a multiclass character, you must have at least the following ability score(s) to take a level in this class, or to take a level in another class if you are already a wizard.</text>
+      <text/>
+      <text>	• Intelligence 13</text>
+    </feature>
+  </autolevel>
+</class>   
+
+</compendium>
