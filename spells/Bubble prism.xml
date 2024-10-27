@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5">
+
+<spell>
+  <name>Bubble Prism</name>
+  <level>1</level>
+  <school>EV</school>
+  <classes>Hydromancer</classes>
+  <time>1 action</time>
+  <range>60 feet</range>
+  <components>V, S, M</components>
+  <duration>1 minute</duration>
+  <text>a small dome of water covers over entity and holds them underwater for 1 minute or if entity succeeds in Intelligence saving throw</text>
+  <text/>
+  <text>At Higher Levels:</text>
+  <text>Your prism levels up with you and takes form of floating orbs and capturing multiple foes</text>
+  <text/>
+  <text> Source: Homebrew</text>
+  <roll>1d20</roll>
+</spell>
+
+</compendium>

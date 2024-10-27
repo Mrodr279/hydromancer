@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5">
+
+<spell>
+  <name>Purify water</name>
+  <level>0</level>
+  <school>EV</school>
+  <classes>Hydromancer</classes>
+  <time>1 action</time>
+  <range>24 feet</range>
+  <components>V, S</components>
+  <duration>Instantaneous</duration>
+  <text>Purifies water from all foreign substances and taste like iced water at 3 am</text>
+  <text/>
+  <text>Source: Homebrew</text>
+</spell>
+
+</compendium>

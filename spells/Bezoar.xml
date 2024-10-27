@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5">
+  
+<spell>
+  <name>Bezoar</name>
+  <level>5</level>
+  <school>EV</school>
+  <classes>Hydromancer<classes>
+  <time>1 action</time>
+  <range>60 feet</range>
+  <components>V, S</components>
+  <duration>Instantaneous</duration>
+  <text>Using the liquids in a creature's body make a ball in their stomach to cause them discomfort and give them a disadvantage on rolls.</text>
+  <text/>
+  <text>Source: Homebrew</text>
+</spell>
+
+</compendium>

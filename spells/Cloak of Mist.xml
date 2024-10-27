@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5">
+
+  <spell>
+  <name>Cloak of mist</name>
+  <level>2</level>
+  <school>EV</school>
+  <classes>Hydromancer</classes>
+  <time>1 action</time>
+  <range>60 feet</range>
+  <components>V, S</components>
+  <duration>10 minutes</duration>
+  <text>A cloud of mist forms in the a 20 foot radius sphere. Vision is hazed disadvantage to ranged attack has wet status</text>
+  <text/>
+  <text>Source: Homebrew</text>
+</spell>
+
+</compendium>

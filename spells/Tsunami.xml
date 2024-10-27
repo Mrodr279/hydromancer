@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5">
+
+<spell>
+  <name>Tsunami</name>
+  <level>9</level>
+  <school>C</school>
+  <classes>Hydromancer</classes>
+  <time>1 action</time>
+  <range>360 feet</range>
+  <components>V, S, M</components>
+  <duration>concentration up to 1 minute</duration>
+  <text>Tsunami is a wide-range ninth level spell that creates a deadly wave that swallows up anything within 360 feet. Tsunami does have limitation and can only be used around large body of waters due to its intensity</text>
+  <text/>
+  <text>Source: Homebrew</text>
+</spell>
+
+</compendium>

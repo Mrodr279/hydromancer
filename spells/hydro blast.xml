@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5">
+
+<spell>
+  <name>Hydro blast</name>
+  <level>7</level>
+  <school>EV</school>
+  <classes>Hydromancer</classes>
+  <time>1 action</time>
+  <range>120</range>
+  <components>V, S</components>
+  <duration>Instantaneous</duration>
+  <text>Launch a high velocity blast of water at a creature that knockbacks 20 feet. On hit the target takes a 1d10 force damage and gives wet status to creature</text>
+  <text/>
+  <text>Source Homebrew</text>
+</spell>
+
+</compendium>

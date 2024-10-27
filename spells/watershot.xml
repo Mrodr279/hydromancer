@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5">
+
+<spell>
+  <name>Watershot</name>
+  <level>0</level>
+  <school>EV</school>
+  <classes>Hydromancer</classes>
+  <time>1 action</time>
+  <range>120 feet</range>
+  <components>V, S</components>
+  <duration>Instantaneous</duration>
+  <text>Launch a ball of water at a creature in range. Make a ranged spell attack against the target. Knockbacks entity plus 5ft each time you roll a lower die; ie d10=5ft, d8=10ft, d6=15ft, d4=20ft</text>
+  <text/>
+  <text>Source: Homebrew</text>
+  <roll>1d12</roll>
+  <roll>1d10</roll>
+  <roll>1d8</roll>
+  <roll>1d6</roll>
+  <roll>1d4</roll>
+</spell>
+
+</compendium>

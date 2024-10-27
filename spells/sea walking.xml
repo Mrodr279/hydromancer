@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5">
+
+<spell>
+  <name>Sea walking</name>
+  <level>3</level>
+  <school>EV</school>
+  <classes>Hydromancer</classes>
+  <time>1 action</time>
+  <range>120 feet</range>
+  <components>V, S</components>
+  <duration>3 minutes</duration>
+  <text>a fog rolls in and gives the feeling of moving underwater, reactions are blocked while in the spell</text>
+  <text/>
+  <text>Source: Homebrew</text>
+</spell>
+
+</compendium>
