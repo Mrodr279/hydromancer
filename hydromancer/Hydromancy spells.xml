@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   School of Hydromancy
-</compendium>
 
 <spell>
   <name>Detect liquid</name>
@@ -182,3 +181,5 @@
   <text/>
   <text>Source: Homebrew</text>
 </spell>
+
+</compendium>
