@@ -1,35 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5">
-  
   <spell>
-  <name>Condense water beads</name>
-  <level>1</level>
-  <school>EV<school>
-  <classes>Hydromancer</classes>
-  <time>1 action</time>
-  <range>120 feet</range>
-  <components>V, S</components>
-  <duration>Instantaneous</duration>
-  <text>Condense water into 5 beads to use as projectiles at enemies or as accessories for later use</text>
-  <text/>
-  <text>At Higher levels:</text>
-  <text>using level 2 spell slots or higher, you create 1 more bead for each spell above 1st.</text>
-  <text/>
-  <text>Source: Homebrew</text>
-  <roll>(1d8+1)</roll>
-  <roll>(2d8+1)</roll>
-  <roll>(3d8+1)</roll>
-  <roll>(4d8+1)</roll>
-  <roll>(5d8+1)</roll>
-  <roll>(6d8+1)</roll>
-  <roll>(7d8+1)</roll>
-  <roll>(8d8+1)</roll>
-  <roll>(9d8+1)</roll>
-  <roll>(10d8+1)</roll>
-  <roll>(11d8+1)</roll>
-  <roll>(12d8+1)</roll>
-  <roll>(13d8+1)</roll>
-  <roll>(14d8+1)</roll>
-</spell>
-
+    <name>Condense water beads</name>
+    <level>1</level>
+    <school>EV</school>
+    <classes>Hydromancer</classes>
+    <time>1 action</time>
+    <range>120 feet</range>
+    <components>V, S</components>
+    <duration>Instantaneous</duration>
+    <text>Condense water into 5 beads to use as projectiles at enemies or as accessories for later use</text>
+    <text/>
+    <text>At Higher levels:</text>
+    <text>using level 2 spell slots or higher, you create 1 more bead for each spell above 1st.</text>
+    <text/>
+    <text>Source: Homebrew</text>
+    <roll>(1d8+1)</roll>
+    <roll>(2d8+1)</roll>
+    <roll>(3d8+1)</roll>
+    <roll>(4d8+1)</roll>
+    <roll>(5d8+1)</roll>
+    <roll>(6d8+1)</roll>
+    <roll>(7d8+1)</roll>
+    <roll>(8d8+1)</roll>
+    <roll>(9d8+1)</roll>
+    <roll>(10d8+1)</roll>
+    <roll>(11d8+1)</roll>
+    <roll>(12d8+1)</roll>
+    <roll>(13d8+1)</roll>
+    <roll>(14d8+1)</roll>
+  </spell>
 </compendium>

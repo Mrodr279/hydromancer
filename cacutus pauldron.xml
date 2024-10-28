@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5" auto_indent="NO">
+    <item>
+        <name>Cactus Pauldron</name>
+        <detail>uncommon</detail>
+        <type>LA</type>
+        <weight>13 lbs</weight>
+        <value>10.0</value>
+        <property/>
+        <text>Pauldrons made of cactus from the area of chult, while wearing have a resistance to dry or hot climate. Does 1d6 piercing damage when hitting creature with pauldron</text>
+        <text/>
+        <text>Source: Homebrew</text>
+    </item>
+</compendium>

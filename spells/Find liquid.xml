@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5">
-
-<spell>
+  <spell>
     <name>Find Liquid</name>
     <level>0</level>
-  <school>D</school>
-  <classes>Hydromancer</classes>
-  <time>1 action</time>
-  <range>175 feet</range>
-  <components>V<components>
-  <duration>Instantaneous</duration>
-  <text>When casted you find any liquid within 175 feet around you, (it is any form of liquid not limited to only water)</text>
-  <text/>
-  <text>Source: Homebrew</text>
-
-</spell>
-
+    <school>D</school>
+    <classes>Hydromancer</classes>
+    <time>1 action</time>
+    <range>175 feet</range>
+    <components>V</components>
+    <duration>Instantaneous</duration>
+    <text>When casted you find any liquid within 175 feet around you, (it is any form of liquid not limited to only water)</text>
+    <text/>
+    <text>Source: Homebrew</text>
+  </spell>
 </compendium>
